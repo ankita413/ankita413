@@ -5,7 +5,7 @@ Problem Solving Skills. I am looking forward to work with and contribute to proj
 
   - 🔭 I’m currently working on a blog website.
   - 🌱 I’m currently learning Web Development, DS&ALGO.
-  -💻 I love to solve problems on GFG(Geeks for Geeks), LeetCode ,CodeChef.
+    -💻 I love to solve problems on GFG(Geeks for Geeks), LeetCode ,CodeChef.
   -👩‍ You can find me on all this platforms in the name of (decipher_me).
   - 👯 I’m looking to collaborate on web development projects.
   -📈 I am always ready to learn new things and expand my knowledge.
