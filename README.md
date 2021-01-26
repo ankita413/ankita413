@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ankita. A future SDE.I love programming and really enjoy problem solving. I take part in various programming contests and sharpen 
+I am Ankita.I love programming and really enjoy problem solving. I take part in various programming contests and sharpen 
 Problem Solving Skills. I am looking forward to work with and contribute to projects to further hone my skills.
 
 
